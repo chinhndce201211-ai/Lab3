@@ -1,0 +1,31 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "D:/FAP/Lab3/src/Lab3.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FAP/Lab3/src/Lab3TB.v",
+   "Type" : "verilog"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/FAP/Lab3/src/Lab3.vhd",
+   "Type" : "vhdl"
+  },
+  {
+   "Library" : "work",
+   "Path" : "D:/FAP/Lab3/src/Lab3TB.vhd",
+   "Type" : "vhdl"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/FAP/Lab3/impl/temp/rtl_parser.result",
+ "Top" : "Lab3",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
